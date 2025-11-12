@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sneha Elizabeth Saji!
 
-I'm a passionate **Software Engineer** with 4+ years of experience in **Full-Stack Development**, **Automation**, and **Database Engineering**. I love building scalable systems, integrating AI into real-world applications, and exploring cutting-edge tech.
+I'm a passionate **Software Engineer** with 5+ years of experience in **Full-Stack Development**, **Automation**, and **Database Engineering**. I love building scalable systems, integrating AI into real-world applications, and exploring cutting-edge tech.
 
 ## 🚀 What I Do
 - 🔧 Building robust web apps with **Java, Spring Boot, Angular, React, Next.js**
@@ -31,6 +31,4 @@ I'm a passionate **Software Engineer** with 4+ years of experience in **Full-Sta
 
 ## 📫 Let's Connect!
 - 📧 Email: snehaelizabeth127@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sneha-elizabeth-saji-1b8585221/
-
 Thanks for stopping by! 🌟
